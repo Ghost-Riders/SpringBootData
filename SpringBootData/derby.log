@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 12 12:01:45 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016e-5e4f-9bec-0000074e8630 
+on database directory memory:/root/git/SpringBootData/SpringBootData/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/root/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+user.dir=/root/git/SpringBootData/SpringBootData
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-32-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
