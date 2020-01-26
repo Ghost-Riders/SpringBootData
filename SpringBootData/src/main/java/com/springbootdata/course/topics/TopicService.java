@@ -28,7 +28,7 @@ public class TopicService {
 	}
 
 	public void updateTopic(String id, Topic topic) {
-		// TODO Auto-generated method stub
+	
 		topicRepository.save(topic);
 	}
 
